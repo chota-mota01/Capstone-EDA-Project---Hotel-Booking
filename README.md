@@ -80,57 +80,8 @@ The variables are described as follows:
 
 **reservation_status_date**       **:** Date of reservation status
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **total_nights**       **:** Total stays in night
+
 **total_guests**       **:** Total number of guests arrived
+
+
