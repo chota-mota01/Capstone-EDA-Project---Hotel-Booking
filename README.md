@@ -6,6 +6,7 @@ We are provided with a hotel booking dataset. The main objective is to perform E
 # Problem Statement
 
 *Hotel Booking Data Analysis*
+
 The hotel industry generates a vast amount of data, including customer information, room types, prices, and booking patterns. However, analyzing this data can be challenging and time-consuming, but it is crucial for hotel management to make informed decisions and improve their business operations. Analyzing the dataset can help the customers to know the best time of year to book a hotel room and optimal length of stay to get the best daily rate. The following dataset can help to explore various questions.
 
 The hotel booking dataset contains booking information for a city hotel and a resort hotel,includes information such as when the booking was made, length of stay, number of adults,children & babies, and the number of available parking spaces, country, customer types, market segment, distribution channels and many more factors. The data will help us understand the factors to optimize occupancy rates, increase revenue, and improve customer satisfaction.
